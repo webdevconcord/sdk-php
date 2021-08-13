@@ -1,0 +1,7 @@
+
+# phpstorm project files
+.idea
+env.php
+/env.php
+env
+logs
